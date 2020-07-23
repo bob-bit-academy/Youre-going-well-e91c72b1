@@ -1,0 +1,19 @@
+Exercise 1:
+1. Installeer git met behulp van https://git-scm.com/downloads
+2. Voer het `git --version` commando uit op je terminal
+
+Exercise 2: 
+1. Maak een map aan op je bureaublad
+2. Open deze map in je terminal (verschillende manieren voor op mac en windows)
+3. Voer het commando `git init` uit
+4. Maak een index.html bestandje aan in deze map en inhoud
+5. Verplaats het bestand naar de staging area met `git add index.html`
+6. Verplaats het bestand naar de repository met `git commit -am "Mijn commit message"`
+
+Exercise 3:
+1. Maak een Gitlab of Github account aan
+2. Maak binnen Gitlab of Github een nieuwe repository
+3. Volg de stappen om je lokale repository te koppelen aan de remote repository
+4. Push je lokale repository naar remote
+5. Maak een nieuwe map op je bureaublad en ‘clone' daar je nieuwe repository
+6. Wijzig een bestand, commit & push dit. Haal deze wijzigingen vervolgens in je originele repository weer binnen
